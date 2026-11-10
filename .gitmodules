@@ -1,0 +1,4 @@
+[submodule "deps/nwchem"]
+	path = deps/nwchem
+	url = https://github.com/nwchemgit/nwchem.git
+	shallow = true
